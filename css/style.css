@@ -23,12 +23,12 @@
 	}
 
 	a {
-		color: #ffffff;
-		text-decoration: none;
+		color: #4dac71;
+		text-decoration: underline;
 	}
 
 		a:hover {
-			text-decoration: blink;
+			text-decoration: none;
 		}
 
 	strong, b {
@@ -961,7 +961,6 @@
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
-		background-size: cover;
 		color: #ffffff;
 		padding: 16em 0em 14em;
 		text-align: center;
@@ -1090,4 +1089,3 @@
 					margin-left: 0;
 					padding-left: 0;
 				}
-#footer #container { text-align: center; } #footer #container ul { float: left; } #footer#container ul li { float: left; padding-left: 10px; list-style-type: none; }
