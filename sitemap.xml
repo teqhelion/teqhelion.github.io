@@ -9,33 +9,138 @@
 
 <url>
   <loc>https://teqhelion.github.io/</loc>
-  <lastmod>2019-06-21T05:21:15+00:00</lastmod>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://teqhelion.github.io/index.html</loc>
-  <lastmod>2019-06-21T05:21:15+00:00</lastmod>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teqhelion.github.io/generic.html</loc>
-  <lastmod>2019-06-21T05:21:15+00:00</lastmod>
+  <loc>https://teqhelion.github.io/index</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teqhelion.github.io/elements.html</loc>
-  <lastmod>2019-06-21T05:21:15+00:00</lastmod>
+  <loc>https://teqhelion.github.io/technology/</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teqhelion.github.io/Redmi-K20-specs.html</loc>
-  <lastmod>2019-06-21T05:21:15+00:00</lastmod>
+  <loc>https://teqhelion.github.io/games/</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teqhelion.github.io/whatsapp-pip-mode.html</loc>
-  <lastmod>2019-06-21T05:21:15+00:00</lastmod>
+  <loc>https://teqhelion.github.io/beats/</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/install-ios-13</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/Redmi-K20-specs</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/whatsapp-pip-mode</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/pubg-lite</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/technology/index.html</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/technology/install-ios-13</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/technology/Redmi-K20-specs</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/technology/whatsapp-pip-mode</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/technology/pubg-lite</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/games/index.html</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/index</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/bollywood</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/tollywood</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/arman-malik</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/arjit-singh</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/generic.html</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/sid-sriram</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/anirudh-ravichander</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/anurag-kulkarni</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/index.html</loc>
+  <lastmod>2019-07-01T15:47:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://teqhelion.github.io/beats/elements.html</loc>
+  <lastmod>2019-07-01T15:47:22+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
